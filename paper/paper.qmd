@@ -1,7 +1,7 @@
 ---
 title: "Mapping Grocery Pricing Dynamics: Vendor Strategies and Consumer Impact in Canada"
 subtitle: "Revealing significant price variations across vendors, with Walmart and NoFrills leading in affordability and Metro and Galleria maintaining premium pricing trends"
-author: Jing Liang
+author: Jing Liang QISHENG YU Yuchen Yuan
 thanks: "Code and data are available at: [https://github.com/JessLiang02/Canadian-groceries-analysis.git](https://github.com/JessLiang02/Canadian-groceries-analysis.git)."
 date: today
 date-format: long
